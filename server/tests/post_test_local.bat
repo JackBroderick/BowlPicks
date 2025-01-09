@@ -1,0 +1,1 @@
+curl http://node-server:5000/endpoints/_authenticate -H "Content-type:application/json" -X POST -d @authenticate.curl

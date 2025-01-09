@@ -1,0 +1,16 @@
+node_modules/
+.vs/
+
+git_add.bat
+eb_create.bat
+awsdb.bat
+.env
+.eb_create.bat
+aws-eb.pub
+git_add.bat
+pushit.bat
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

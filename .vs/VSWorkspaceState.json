@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\server",
+    "\\server\\bin",
+    "\\server\\sql",
+    "\\web",
+    "\\web\\public",
+    "\\web\\public\\images",
+    "\\web\\src",
+    "\\web\\src\\components",
+    "\\web\\src\\functions"
+  ],
+  "SelectedNode": "\\web\\src\\functions\\constants.tsx",
+  "PreviewInSolutionExplorer": false
+}

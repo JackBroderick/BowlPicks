@@ -1,0 +1,22 @@
+{
+  "name": "bowlcuptng",
+  "version": "1.0.0",
+  "description": "The Bowl Cup",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Chris Broderick",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "dotenv": "^8.2.0",
+    "emailjs": "^3.6.0",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "pg": "^8.5.1",
+    "socket.io": "^3.1.1",
+    "universal-cookie-express": "^4.0.3"
+  }
+}

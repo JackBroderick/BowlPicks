@@ -1,0 +1,31 @@
+season,game_date,network,bowl,location,home_id,visitor_id,home_record,visitor_record,spread,home_score,visitor_score
+2021,2021-12-21,"3:30 PM ESPN","Famous Idaho Potato Bowl","Boise, ID",119,42,(6-6),(7-6),3,0,0
+2021,2021-12-21,"7:30 PM ESPN","Frisco Bowl","Frisco, TX",126,83,(12-1),"#24 (11-2)",2.5,0,0
+2021,2021-12-22,"8:00 PM ESPN","Armed Forces Bowl","Fort Worth, TX",7,59,(8-3),(6-6),3.5,0,0
+2021,2021-12-23,"7:00 PM ESPN","Gasparilla Bowl","Tampa, FL",26,103,(6-6),(8-4),7.5,0,0
+2021,2021-12-24,"8:00 PM ESPN","Hawaii Bowl","Honolulu, HI",51,33,(6-6),(6-7),6,0,0
+2021,2021-12-25,"2:30 PM ESPN","Camellia Bowl","Montgomery, AL",127,9,(7-5),(6-6),4.5,0,0
+2021,2021-12-27,"11:00 AM ESPN","Quick Lane Bowl","Detroit, MI",62,117,(8-4),(7-5),1,0,0
+2021,2021-12-27,"2:30 PM ESPN","Military Bowl","Annapolis, MD",12,24,(6-6),(7-5),3.5,0,0
+2021,2021-12-28,"12:00 PM ESPN","Birmingham Bowl","Birmingham, AL",8,34,(6-6),"#20 (11-2)",3,0,0
+2021,2021-12-28,"3:15 PM ESPN","First Responder Bowl","Dallas, TX",47,121,(6-6),(9-3),1.5,0,0
+2021,2021-12-28,"6:45 PM ESPN","Liberty Bowl","Memphis, TN",58,97,(7-5),(6-6),8,0,0
+2021,2021-12-28,"8:00 PM FOX","Holiday Bowl","San Diego, CA",66,104,"#18 (9-3)",(8-4),1,0,0
+2021,2021-12-28,"10:15 PM ESPN","Guaranteed Rate Bowl","Phoenix, AZ",57,115,(8-4),(6-6),4,0,0
+2021,2021-12-29,"11:00 AM ESPN","Fenway Bowl","Boston, MA",110,88,(6-6),(8-4),1,0,0
+2021,2021-12-29,"2:15 PM ESPN","Pinstripe Bowl","New York, NY",111,50,(6-6),(6-6),1,0,0
+2021,2021-12-29,"5:45 PM ESPN","Cheez-it Bowl","Orlando, FL",19,39,"#19 (9-3)",(7-5),1,0,0
+2021,2021-12-29,"9:15 PM ESPN","Alamo Bowl","San Antonio, TX",73,76,"#16 (10-2)","#14 (10-3)",4.5,0,0
+2021,2021-12-30,"11:30 AM ESPN","Dukes Mayo Bowl","Memphis, TN",65,85,(6-6),(6-6),7,0,0
+2021,2021-12-30,"3:00 PM ESPN","Music City Bowl","Nashville, TN",94,80,(7-5),(8-4),3.5,0,0
+2021,2021-12-30,"7:00 PM ESPN","Peach Bowl","Atlanta, GA",79,55,"#12 (11-2)","#10 (10-2)",3,0,0
+2021,2021-12-30,"10:30 PM ESPN","Las Vegas Bowl","Las Vegas, NV",118,4,(8-4),(8-4),7,0,0
+2021,2021-12-31,"11:00 AM ESPN","Gator Bowl","Jacksonville, FL",95,112,"#25 (8-4)","#17 (10-3)",7,0,0
+2021,2021-12-31,"12:30 PM CBS","Sun Bowl","El Paso, TX",52,114,(7-5),(7-5),2.5,0,0
+2021,2021-12-31,"3:30 PM ESPN","Cotton Bowl","Arlington, TX",2,18,"#1 (12-1)","#4 (13-0)",13.5,0,0
+2021,2021-12-31,"7:00 PM ESPN","Orange Bowl","Miami Gardens, FL",31,54,"#3 (12-1)","#2 (12-1)",7.5,0,0
+2021,2022-01-01,"12:00 PM ESPN2","Outback Bowl","Tampa, FL",78,5,(7-5),"#21 (8-4)",2.5,0,0
+2021,2022-01-01,"1:00 PM ABC","Citrus Bowl","Orlando, FL",43,38,"#22 (9-3)","#15 (10-3)",2.5,0,0
+2021,2022-01-01,"1:00 PM ESPN","Fiesta Bowl","Glendale, AZ",70,74,"#5 (11-1)","#9 (11-2)",2,0,0
+2021,2022-01-01,"5:00 PM ESPN","Rose Bowl","Pasadena, CA",72,106,"#6 (10-2)","#11 (10-3)",6.5,0,0
+2021,2022-01-01,"8:45 PM ESPN","Sugar Bowl","New Orleans, LA",10,75,"#7 (11-2)","#8 (10-2)",1.5,0,0

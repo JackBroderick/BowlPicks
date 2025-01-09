@@ -1,0 +1,12 @@
+import io from 'socket.io-client';
+import { productionServer } from './constants';
+
+export const SocketsParams = {
+    location: productionServer,
+    path: '/_sockets/',
+    handshake: 'handshake',
+    refresh: 'refresh',
+    smack: 'smack',
+};
+
+export const socketClient = io(SocketsParams.location, { path: SocketsParams.path });
